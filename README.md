@@ -7,5 +7,5 @@
   
   - #### [필드](https://github.com/Sun1203/Java_Learn/tree/main/src/sec02)
   
-  = #### [생성자](https://github.com/Sun1203/Java_Learn/tree/main/src/sec03)
+  - #### [생성자](https://github.com/Sun1203/Java_Learn/tree/main/src/sec03)
 

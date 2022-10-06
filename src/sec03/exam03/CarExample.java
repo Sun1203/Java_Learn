@@ -24,5 +24,10 @@ public class CarExample {
         System.out.println("car4.maxSpeed : " + car4.maxSpeed);
         System.out.println();
 
+        // 생성자 호출시 method 함수 실행!
+        Car car5 = new Car(); // 생성자 선택
+
+
+
     }
 }

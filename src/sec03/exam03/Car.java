@@ -10,7 +10,8 @@ public class Car {
 
     // 생성자
     Car() {
-
+        this.model = "승용차";
+        this.method();
     }
 
     Car(String model) {
@@ -25,6 +26,10 @@ public class Car {
         this.model = model;
         this.color = color;
         this.maxSpeed = maxSpeed;
+    }
+
+    public void method(){
+        System.out.println(this.model);
     }
 
 }

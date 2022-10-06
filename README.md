@@ -11,5 +11,5 @@
   
   - #### [인스턴스 멤버와 정적 멤버](https://github.com/Sun1203/Java_Learn/tree/main/src/sec05)
   
-  - #### [패키지와 접근 제한자]()
+  - #### [패키지와 접근 제한자](https://github.com/Sun1203/Java_Learn/tree/main/src/sec06)
 

@@ -1,10 +1,10 @@
-package sec05.exam05;
+package class1.sec05.exam05;
 
 public class PersonExample {
 
     public static void main(String[] args) {
 
-        Person p1 = new Person("123456-123456", "이재선");
+        class1.sec05.exam05.Person p1 = new class1.sec05.exam05.Person("123456-123456", "이재선");
 
         System.out.println(p1.nation);
         System.out.println( p1.name);

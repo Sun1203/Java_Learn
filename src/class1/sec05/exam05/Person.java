@@ -1,4 +1,4 @@
-package sec05.exam05;
+package class1.sec05.exam05;
 
 public class Person {
     final String nation = "korea";
